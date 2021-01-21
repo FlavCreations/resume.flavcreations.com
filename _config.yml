@@ -83,32 +83,31 @@ content:
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: Flav Creations
+        sub_title: Founder/CEO
+        caption: August 2018 - present
+        link: https://www.FlavCreations.com
         quote: >
-          Short description of the company (optional)
+
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Programmer and Developer of games, apps, websites and other.
   - title: Education
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: Bluegrass Community and Technical College
+        sub_title: AS of CIT
+        caption: 2013-2019
         quote: >
-          Short institution or course description (optional)
+
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
-
+      I have a bunch of dogs and foster dogs for a dog rescue that I also manage the website and tech sides of things for.
+      I enjoy researching random things and have been working with a friend on a stream tech and information website called Library by Stream Sounds.
+      
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
