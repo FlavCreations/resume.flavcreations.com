@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Flavius - Chris T.
-title: Sole Proprietor
+title: 
 email:
 # email_title: Email (Email title override)
 phone:
@@ -19,7 +19,7 @@ website: FlavCreations.com
 darkmode: true
 
 # Social links
-twitter_username: FlavCreations
+twitter_username: FlaviusIRL
 github_username:  Flavius-The-Person
 #stackoverflow_username: "00000001"
 #dribbble_username: jekyll
@@ -50,7 +50,7 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/profile_1.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello! I'm Flavius, and I am an indie developer that makes games and apps and other fun stuff!
 
@@ -65,20 +65,20 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        title: Library by Stream Sounds
+        link: library.streamsounds.tv
+        link_text:
+        #additional_links:
+        #  - title:  Library by StreamSounds
+        #    icon: fab fa-twitter
+        #    url: twitter.com/streamsoundstvLink to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #  - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #    icon: fab fa-github
+        #    url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
+          A collection of tips and advice for streamers by the StreamSounds community.
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          We work on providing valid information to help improve streaming setups and various things that assist with streaming.
   - title: Experience
     layout: list
     content:
@@ -96,7 +96,7 @@ content:
     content:
       - layout: top-right
         title: Bluegrass Community and Technical College
-        sub_title: AS of CIT
+        sub_title: ASC of CIT
         caption: 2013-2019
         quote: >
 
@@ -107,7 +107,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       I have a bunch of dogs and foster dogs for a dog rescue that I also manage the website and tech sides of things for.
       I enjoy researching random things and have been working with a friend on a stream tech and information website called Library by Stream Sounds.
-      
+
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
