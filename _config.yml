@@ -91,6 +91,15 @@ content:
 
         description: | # this will include new lines to allow paragraphs
           Programmer and Developer of games, apps, websites and other.
+
+      -layout: right
+       title: Wyvern Weapons
+       sub_title: Co-Founder/Programmer
+       caption: July 2010 - present
+       quote: >
+
+       description: | # this will include new lines to allow paragraphs
+        Programmer/Scripter and feature designer for weapons in SecondLife. a virtual world.
   - title: Education
     layout: list
     content:
