@@ -61,54 +61,44 @@ about_content: | # this will include new lines to allow paragraphs
 #    - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Projects
+    layout: list
     content:
       - layout: left
-        title: Library by Stream Sounds
+        title: Library by StreamSounds
         link: library.streamsounds.tv
         quote: >
-          A collection of tips and advice for streamers by the StreamSounds community.
-        description: | # this will include new lines to allow paragraphs
-          We work on providing valid information to help improve streaming setups and various things that assist with streaming.
+          A collection of tips and advice for streamers by the StreamSounds Community.
+        description: |
+          we work on providing valid information to help improve streaming setups and various things that assist with streaming.
   - title: Experience
-    layout: list
+    layout: listing
     content:
       - layout: right
         title: Flav Creations
         sub_title: Founder/CEO
-        caption: August 2018 - present
+        caption: August 2018 - Present
         link: https://www.FlavCreations.com
         quote: >
+          Create Ad Infinitum
+        description: | # this will includ enew lines to allow paragraphs
+          Indie Programmer and Developer of Games, Apps, Website, and more.
+    - title: Education
+      layout: list
+      content:
+        - layout: top-right
+          title: Bluegrass Community and Technical College
+          sub_title: ASC of CIT
+          caption: 2013-2019
+          quote: >
 
-        description: | # this will include new lines to allow paragraphs
-          Programmer and Developer of games, apps, websites and other.
-
-      -layout: right
-       title: Wyvern Weapons
-       sub_title: Co-Founder/Programmer
-       caption: July 2010 - present
-       quote: >
-
-       description: | # this will include new lines to allow paragraphs
-        Programmer/Scripter and feature designer for weapons in SecondLife. a virtual world.
-  - title: Education
-    layout: list
-    content:
-      - layout: top-right
-        title: Bluegrass Community and Technical College
-        sub_title: ASC of CIT
-        caption: 2013-2019
-        quote: >
-
-        description: | # this will include new lines to allow paragraphs
-
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
+          description: | # this will include new lines to allow paragraphs
+    - title: A Little More About Me
+      layout: text
+      content: | # this will include new lines to allow paragraphs
       I have a bunch of dogs and foster dogs for a dog rescue that I also manage the website and tech sides of things for.
-      I enjoy researching random things and have been working with a friend on a stream tech and information website called Library by Stream Sounds.
-
+      I enjoy researching random things and have been working with a friend on a stream tech and information website called Libray by StreamSounds.
+      
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
