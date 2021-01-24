@@ -67,14 +67,6 @@ content:
       - layout: left
         title: Library by Stream Sounds
         link: library.streamsounds.tv
-        link_text:
-        #additional_links:
-        #  - title:  Library by StreamSounds
-        #    icon: fab fa-twitter
-        #    url: twitter.com/streamsoundstvLink to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        #  - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #    icon: fab fa-github
-        #    url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
           A collection of tips and advice for streamers by the StreamSounds community.
         description: | # this will include new lines to allow paragraphs
