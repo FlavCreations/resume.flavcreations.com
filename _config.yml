@@ -13,19 +13,10 @@ website: https://flavcreations.com/
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
-orcid_username: 0000-0000-0000-0000
+twitter_username: FlavCreations
+github_username:  Flavius-The-Person
+facebook_username: ChrisDTol
+instagram_username: Flavius.The.Person
 
 # Additional icon links
 additional_links:
