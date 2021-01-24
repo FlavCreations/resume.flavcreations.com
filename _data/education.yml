@@ -1,9 +1,9 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+  name: Bluegrass Community and Technical College
+  dates: 2013 - 2018
+  qualification: ASC of CIT with emphasis in programming.
   quote: >
-    Short institution or course description (optional)
+
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    
