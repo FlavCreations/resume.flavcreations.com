@@ -35,7 +35,7 @@ instagram_username: Flavius.The.Person
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: assets/profile_1.jpgs #Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/profile_1.jpg #Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   Hello! I'm Flavius, and I am an indie developer that makes games, apps and other fun stuff!
 
