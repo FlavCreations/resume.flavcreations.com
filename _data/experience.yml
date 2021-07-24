@@ -8,3 +8,12 @@
    Create Ad Infinitum
   description: | # this will include new lines to allow paragraphs
     Indie programmer and developer of games, apps, websites and more.
+
+- layout: left
+  company: Wyvern Weapons
+  job_title: Founder/Programmer
+  dates: August 2008 - Present
+  quote: >
+   Welcome to the home of unyhielding function and flawless form.
+  description: | # this will include new lines to allow paragraphs
+    Programmer of weapons to work on various systems within Second Life.
