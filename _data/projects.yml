@@ -1,5 +1,13 @@
 # Project template
 - layout: top-middle
+  name: Roleplay Game Live
+  link: TBA
+  quote: >
+
+  description: | # this will include new lines to allow paragraphs
+  A JRPG developed around live streaming.
+  
+- layout: top-middle
   name: Library by StreamSounds
   link: Library.StreamSounds.tv
   github:
