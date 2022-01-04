@@ -1,11 +1,12 @@
 # Project template
 - layout: top-middle
   name: Roleplay Game Live
-  link: FlavCreations.com
+  link: FlaveCreations.com
+  github:
   quote: >
-    Bosses? check! Streamer? Most likely check! Fellow roster? check! Fight Commence!
+    Bosses? Check! Streamer? Most likely check! Fellow roster? Check! Fight Commence!
   description: | # this will include new lines to allow paragraphs
-  A JRPG developed around live streaming.
+    A JRPG developed around live streaming!
 
 - layout: top-middle
   name: Library by StreamSounds
