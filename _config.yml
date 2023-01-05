@@ -5,7 +5,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 # Personal info
 name: Flavius - Chris T.
 title: Founder/CEO
-email:
+email: Flavius@FlavCreations.com
 phone:
 website: https://flavcreations.com/
 
